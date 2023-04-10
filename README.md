@@ -10,3 +10,5 @@ Input should be taken with the help of a `prompt()`:
 The output should be presented via an `alert()`: 
 
 ![image](https://user-images.githubusercontent.com/78275204/222358013-ed72dd76-6cae-4eac-8e84-8b37274c4d14.png)
+
+
